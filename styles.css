@@ -40,10 +40,12 @@ nav {
     letter-spacing: -0.02em;
 }
 
-.nav-links {
+ul.nav-links {
     display: flex;
     list-style: none;
     gap: 2rem;
+    border: 2px solid red !important;
+    background-color: #00fabb !important;
 }
 
 .nav-links a {
