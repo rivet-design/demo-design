@@ -45,6 +45,7 @@ ul.nav-links {
     list-style: none;
     gap: 2rem;
     border: 2px solid red !important;
+    background-color: #00fabb !important;
 }
 
 .nav-links a {
