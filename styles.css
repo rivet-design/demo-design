@@ -148,7 +148,6 @@ nav {
 
 .cta-button:hover {
     background: #4f46e5;
-    transform: translateY(-3px);
     box-shadow: 0 8px 25px rgba(99, 102, 241, 0.6);
 }
 
