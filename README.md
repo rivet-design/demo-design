@@ -15,7 +15,7 @@ npm -g install rivet-design
 
 Now, from the directory, simply kick off the Rivet editor
 ````
-rivet --root-html-path index.html
+rivet 
 ````
 
 This will open an interactive design editor where you can make visual changes to the demo application.
