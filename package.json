@@ -1,0 +1,26 @@
+{
+  "name": "html-demo-public",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivet-design/demo-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivet-design/demo-design/issues"
+  },
+  "homepage": "https://github.com/rivet-design/demo-design#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.1.4"
+  }
+}
